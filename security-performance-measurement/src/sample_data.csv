@@ -1,0 +1,7 @@
+product,published,severity,access_complexity,exploited,remediation
+Atlas,2024-01-08,HIGH,LOW,true,UNRESOLVED
+Atlas,2024-01-19,MEDIUM,LOW,false,AVAILABLE
+Beacon,2024-01-25,CRITICAL,LOW,true,UNRESOLVED
+Atlas,2024-02-04,HIGH,HIGH,true,AVAILABLE
+Beacon,2024-02-11,LOW,LOW,false,AVAILABLE
+Beacon,2024-02-23,HIGH,LOW,true,UNRESOLVED
