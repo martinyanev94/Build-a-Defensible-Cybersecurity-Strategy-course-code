@@ -1,0 +1,5 @@
+record_type,record_id,period,assets_in_scope,total_assets,unresolved_vulnerabilities,critical_vulnerabilities,attack_stage,detected,stopped
+vulnerability,vm-2026-01,2026-01,120,150,18,4,,,
+attack,attack-2026-01,2026-01,,,,,exploitation,yes,yes
+vulnerability,vm-2026-02,2026-02,120,150,12,2,,,
+attack,attack-2026-02,2026-02,,,,,installation,yes,no
