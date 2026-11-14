@@ -1,0 +1,2 @@
+# Build-a-Defensible-Cybersecurity-Strategy-course-code
+Learn how to build a defensible cybersecurity strategy with Python by turning compromise paths, threat intelligence, vulnerability trends, malware evidence, cloud risks, and control performance into explainable priorities. This course shows how to connect security decisions to business outcomes, test assumptions with runnable prototypes, and measur
